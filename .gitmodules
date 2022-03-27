@@ -1,0 +1,7 @@
+[submodule "themes/forty"]
+	path = themes/forty
+	url = https://github.com/MarcusVirg/forty.git
+[submodule "public"]
+	path = public
+	url = https://github.com/swiernia/swiernia.github.io.git
+	branch = master
