@@ -1,5 +1,8 @@
+#github resource
+publishDir = "docs"
+
 # Site settings
-baseURL = "www.dw-house.pl/"
+baseURL = "www.dw-house.pl"
 languageCode = "en-us"
 title = "Forty"
 theme = "forty"
