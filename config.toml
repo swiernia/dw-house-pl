@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://galeria.dw-house.pl/"
+baseURL = "www.dw-house.pl/"
 languageCode = "en-us"
 title = "Forty"
 theme = "forty"
